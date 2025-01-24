@@ -1,0 +1,26 @@
+POId,Item,Quantity,Price
+PO1,usage     prompttokens 32,14,91
+PO2,rejectedpredictiontokens 0,21,59
+PO3,you can validate that the goods have been received as per the purchase order requirements,22,82
+PO4,audiotokens 0,62,91
+PO5,model gpt35turbo0125,38,122
+PO6,systemfingerprint null,39,125
+PO7,finishreason stop,87,131
+PO8,usage     prompttokens 32,83,84
+PO9,servicetier default,73,121
+PO10,servicetier default,75,56
+PO11,object chatcompletion,12,136
+PO12,message         role assistant,67,99
+PO13,prompttokensdetails       cachedtokens 0,38,146
+PO14,servicetier default,72,66
+PO15,totaltokens 251,100,80
+PO16,prompttokensdetails       cachedtokens 0,100,116
+PO17,systemfingerprint null,78,78
+PO18,totaltokens 251,73,52
+PO19,usage     prompttokens 32,47,132
+PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,95,102
+PO21,servicetier default,90,81
+PO22,unit prices,46,101
+PO23,servicetier default,28,93
+PO24,unit prices,44,79
+PO25,refusal null,57,126

@@ -1,0 +1,157 @@
+GRNId,POId,Item,QuantityReceived,Price
+GRN1,PO1,usage     prompttokens 32,14,91
+GRN2,PO2,rejectedpredictiontokens 0,16,59
+GRN3,PO2,rejectedpredictiontokens 0,5,59
+GRN4,PO3,you can validate that the goods have been received as per the purchase order requirements,20,82
+GRN5,PO3,you can validate that the goods have been received as per the purchase order requirements,2,82
+GRN6,PO4,audiotokens 0,17,91
+GRN7,PO4,audiotokens 0,11,91
+GRN8,PO4,audiotokens 0,1,91
+GRN9,PO4,audiotokens 0,12,91
+GRN10,PO4,audiotokens 0,13,91
+GRN11,PO4,audiotokens 0,1,91
+GRN12,PO4,audiotokens 0,7,91
+GRN13,PO5,model gpt35turbo0125,9,122
+GRN14,PO5,model gpt35turbo0125,8,122
+GRN15,PO5,model gpt35turbo0125,11,122
+GRN16,PO5,model gpt35turbo0125,10,122
+GRN17,PO6,systemfingerprint null,12,125
+GRN18,PO6,systemfingerprint null,19,125
+GRN19,PO6,systemfingerprint null,3,125
+GRN20,PO6,systemfingerprint null,5,125
+GRN21,PO7,finishreason stop,14,131
+GRN22,PO7,finishreason stop,20,131
+GRN23,PO7,finishreason stop,14,131
+GRN24,PO7,finishreason stop,17,131
+GRN25,PO7,finishreason stop,7,131
+GRN26,PO7,finishreason stop,3,131
+GRN27,PO7,finishreason stop,3,131
+GRN28,PO7,finishreason stop,4,131
+GRN29,PO7,finishreason stop,5,131
+GRN30,PO8,usage     prompttokens 32,4,84
+GRN31,PO8,usage     prompttokens 32,7,84
+GRN32,PO8,usage     prompttokens 32,10,84
+GRN33,PO8,usage     prompttokens 32,14,84
+GRN34,PO8,usage     prompttokens 32,10,84
+GRN35,PO8,usage     prompttokens 32,13,84
+GRN36,PO8,usage     prompttokens 32,7,84
+GRN37,PO8,usage     prompttokens 32,18,84
+GRN38,PO9,servicetier default,21,121
+GRN39,PO9,servicetier default,5,121
+GRN40,PO9,servicetier default,2,121
+GRN41,PO9,servicetier default,13,121
+GRN42,PO9,servicetier default,16,121
+GRN43,PO9,servicetier default,9,121
+GRN44,PO9,servicetier default,7,121
+GRN45,PO10,servicetier default,12,56
+GRN46,PO10,servicetier default,6,56
+GRN47,PO10,servicetier default,5,56
+GRN48,PO10,servicetier default,1,56
+GRN49,PO10,servicetier default,13,56
+GRN50,PO10,servicetier default,6,56
+GRN51,PO10,servicetier default,8,56
+GRN52,PO10,servicetier default,9,56
+GRN53,PO10,servicetier default,6,56
+GRN54,PO10,servicetier default,9,56
+GRN55,PO11,object chatcompletion,12,136
+GRN56,PO12,message         role assistant,16,99
+GRN57,PO12,message         role assistant,16,99
+GRN58,PO12,message         role assistant,7,99
+GRN59,PO12,message         role assistant,7,99
+GRN60,PO12,message         role assistant,5,99
+GRN61,PO12,message         role assistant,4,99
+GRN62,PO12,message         role assistant,12,99
+GRN63,PO13,prompttokensdetails       cachedtokens 0,21,146
+GRN64,PO13,prompttokensdetails       cachedtokens 0,14,146
+GRN65,PO13,prompttokensdetails       cachedtokens 0,3,146
+GRN66,PO14,servicetier default,11,66
+GRN67,PO14,servicetier default,10,66
+GRN68,PO14,servicetier default,9,66
+GRN69,PO14,servicetier default,12,66
+GRN70,PO14,servicetier default,4,66
+GRN71,PO14,servicetier default,1,66
+GRN72,PO14,servicetier default,7,66
+GRN73,PO14,servicetier default,16,66
+GRN74,PO14,servicetier default,2,66
+GRN75,PO15,totaltokens 251,18,80
+GRN76,PO15,totaltokens 251,18,80
+GRN77,PO15,totaltokens 251,17,80
+GRN78,PO15,totaltokens 251,1,80
+GRN79,PO15,totaltokens 251,16,80
+GRN80,PO15,totaltokens 251,4,80
+GRN81,PO15,totaltokens 251,18,80
+GRN82,PO15,totaltokens 251,5,80
+GRN83,PO15,totaltokens 251,3,80
+GRN84,PO16,prompttokensdetails       cachedtokens 0,2,116
+GRN85,PO16,prompttokensdetails       cachedtokens 0,20,116
+GRN86,PO16,prompttokensdetails       cachedtokens 0,1,116
+GRN87,PO16,prompttokensdetails       cachedtokens 0,15,116
+GRN88,PO16,prompttokensdetails       cachedtokens 0,13,116
+GRN89,PO16,prompttokensdetails       cachedtokens 0,10,116
+GRN90,PO16,prompttokensdetails       cachedtokens 0,2,116
+GRN91,PO16,prompttokensdetails       cachedtokens 0,7,116
+GRN92,PO16,prompttokensdetails       cachedtokens 0,3,116
+GRN93,PO16,prompttokensdetails       cachedtokens 0,13,116
+GRN94,PO16,prompttokensdetails       cachedtokens 0,14,116
+GRN95,PO17,systemfingerprint null,7,78
+GRN96,PO17,systemfingerprint null,17,78
+GRN97,PO17,systemfingerprint null,12,78
+GRN98,PO17,systemfingerprint null,9,78
+GRN99,PO17,systemfingerprint null,21,78
+GRN100,PO17,systemfingerprint null,9,78
+GRN101,PO17,systemfingerprint null,3,78
+GRN102,PO18,totaltokens 251,1,52
+GRN103,PO18,totaltokens 251,6,52
+GRN104,PO18,totaltokens 251,14,52
+GRN105,PO18,totaltokens 251,12,52
+GRN106,PO18,totaltokens 251,5,52
+GRN107,PO18,totaltokens 251,19,52
+GRN108,PO18,totaltokens 251,11,52
+GRN109,PO18,totaltokens 251,5,52
+GRN110,PO19,usage     prompttokens 32,3,132
+GRN111,PO19,usage     prompttokens 32,11,132
+GRN112,PO19,usage     prompttokens 32,10,132
+GRN113,PO19,usage     prompttokens 32,11,132
+GRN114,PO19,usage     prompttokens 32,12,132
+GRN115,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,6,102
+GRN116,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,3,102
+GRN117,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,1,102
+GRN118,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,6,102
+GRN119,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,6,102
+GRN120,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,5,102
+GRN121,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,13,102
+GRN122,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,2,102
+GRN123,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,14,102
+GRN124,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,15,102
+GRN125,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,14,102
+GRN126,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,2,102
+GRN127,PO20,and any other relevant detailsnn4 Condition of goods Inspect the condition of the goods received against the quality standards specified in the PO to ensure that they meet requirementsnn5 Dates and signatures Verify that the dates on the GRN match the dates of goods receipt and that the GRN is signed by the appropriate personnel to acknowledge receiptnnBy thoroughly comparing these key points between the GRN and PO data,8,102
+GRN128,PO21,servicetier default,3,81
+GRN129,PO21,servicetier default,2,81
+GRN130,PO21,servicetier default,11,81
+GRN131,PO21,servicetier default,14,81
+GRN132,PO21,servicetier default,21,81
+GRN133,PO21,servicetier default,10,81
+GRN134,PO21,servicetier default,9,81
+GRN135,PO21,servicetier default,20,81
+GRN136,PO22,unit prices,9,101
+GRN137,PO22,unit prices,8,101
+GRN138,PO22,unit prices,4,101
+GRN139,PO22,unit prices,17,101
+GRN140,PO22,unit prices,1,101
+GRN141,PO22,unit prices,7,101
+GRN142,PO23,servicetier default,11,93
+GRN143,PO23,servicetier default,2,93
+GRN144,PO23,servicetier default,15,93
+GRN145,PO24,unit prices,10,79
+GRN146,PO24,unit prices,3,79
+GRN147,PO24,unit prices,6,79
+GRN148,PO24,unit prices,6,79
+GRN149,PO24,unit prices,17,79
+GRN150,PO24,unit prices,2,79
+GRN151,PO25,refusal null,11,126
+GRN152,PO25,refusal null,6,126
+GRN153,PO25,refusal null,12,126
+GRN154,PO25,refusal null,12,126
+GRN155,PO25,refusal null,5,126
+GRN156,PO25,refusal null,11,126
